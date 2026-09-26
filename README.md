@@ -11,6 +11,7 @@
 
 From extracting user tensions and defining contrarian strategic wedges to generating voice-in-action scenarios, live interactive visual tokens, stress-testing against VC critiques, and producing high-resolution **Brand Books (.pdf & .json)**, Brandix operates as an automated fractional Chief Brand Officer.
 
+More features are coming soon...
 ---
 
 ## 🚀 Key Features & Pipeline Stages
