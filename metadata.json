@@ -1,0 +1,6 @@
+{
+  "name": "Brandix - AI Brand Intelligence Platform",
+  "description": "Multi-stage AI reasoning pipeline that transforms startup ideas into complete, differentiated brand identities and exportable brand kits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
