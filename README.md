@@ -2,6 +2,7 @@
 
 > A multi-stage AI reasoning pipeline that transforms raw startup ideas into complete, highly differentiated brand identities, strategic positioning, visual design systems, and exportable brand specifications.
 
+**LIVE DEPLOY LINK** - https://brandix.onrender.com/
 ---
 
 ## 🌟 Overview
